@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33155'
     url: http://www.gutenberg.org/2009/agents/33155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28116#-The-Red-Watch---With-the-First-Canadian-Division-in-Flanders
 gutenberg_issued: '2009-02-18'
 gutenberg_type: Text
 identifiers:
